@@ -1,5 +1,7 @@
 # All IT Ebooks
 
+- [Developing Inclusive Mobile Apps](http://file.allitebooks.com/20200427/Developing%20Inclusive%20Mobile%20Apps.pdf)
+- [C--20 Recipes, 2nd Edition](http://file.allitebooks.com/20200425/C--20%20Recipes,%202nd%20Edition.pdf)
 - [C- 8.0 in a Nutshell](http://file.allitebooks.com/20200423/C-%208.0%20in%20a%20Nutshell.epub)
 - [Teach Yourself VISUALLY MacBook Pro and MacBook Air, 5th Edition](http://file.allitebooks.com/20200419/Teach%20Yourself%20VISUALLY%20MacBook%20Pro%20and%20MacBook%20Air,%205th%20Edition.pdf)
 - [Python One-Liners](http://file.allitebooks.com/20200418/Python%20One-Liners.epub)
