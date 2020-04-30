@@ -1,5 +1,7 @@
 # All IT Ebooks
 
+- [The Project Managers Guide to Microsoft Project 2019](http://file.allitebooks.com/20200430/The%20Project%20Managers%20Guide%20to%20Microsoft%20Project%202019.pdf)
+- [Natural Language Processing with Python and spaCy](http://file.allitebooks.com/20200429/Natural%20Language%20Processing%20with%20Python%20and%20spaCy.epub)
 - [Developing Inclusive Mobile Apps](http://file.allitebooks.com/20200427/Developing%20Inclusive%20Mobile%20Apps.pdf)
 - [C--20 Recipes, 2nd Edition](http://file.allitebooks.com/20200425/C--20%20Recipes,%202nd%20Edition.pdf)
 - [C- 8.0 in a Nutshell](http://file.allitebooks.com/20200423/C-%208.0%20in%20a%20Nutshell.epub)
